@@ -1,0 +1,14 @@
+.logo{
+    height: 200px;
+    width: 200px;
+}
+.header{
+    font-family:cursive;
+}
+.login_div{
+    margin-left: 505px;
+}
+
+.body_background{
+    background-color: #a6dbeb;
+}
